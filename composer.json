@@ -1,5 +1,5 @@
 {
-    "name": "kevinowsky/egeloen-IvoryGoogleMapBundl",
+    "name": "kevinowsky/egeloen-IvoryGoogleMapBundle",
     "type": "symfony-bundle",
     "description": "Provides a google map integration for your Symfony2 Project.",
     "keywords": [ "google map" ],
